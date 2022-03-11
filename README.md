@@ -6,7 +6,7 @@
 
 #### Smallest one
 
-This is for normal text
+This is for normal text.
 
 *Italic*
 
