@@ -1,0 +1,8 @@
+CREATE TABLE IF NOT EXISTS pokemons
+(
+    id   INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(300),
+    type VARCHAR(300)
+);
+
+SELECT * FROM pokemons;
